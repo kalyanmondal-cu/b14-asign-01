@@ -1,0 +1,1 @@
+Create an extra section before the footer section. this section must relevant to the **DevConf 2026 theme** (e.g. Job Board).
